@@ -1,0 +1,12 @@
+transformers
+torch
+plotly
+dash
+tweepy
+pandas
+textblob
+flask
+streamlit
+matplotlib
+requests
+huggingface_hub
